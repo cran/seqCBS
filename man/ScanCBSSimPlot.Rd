@@ -8,7 +8,9 @@ Plotting for CBS results of Simulated Data
 This is an overall plotting function to display the segmentation for a chromosome, for simulation data.
 }
 \usage{
-ScanCBSSimPlot(cases, controls, CBSObj, trueTau, SpikeMat, filename, mainTitle, CIObj=NULL, length.out=10000, localWindow=0.5*10^5, localSeparatePlot=TRUE, smoothF=0.025, xlabScale=10^6, width=12, height=18)
+ScanCBSSimPlot(cases, controls, CBSObj, trueTau, SpikeMat, filename, mainTitle, 
+  CIObj=NULL, length.out=10000, localWindow=0.5*10^5, localSeparatePlot=TRUE, 
+  smoothF=0.025, xlabScale=10^6, width=12, height=18)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{

@@ -1,8 +1,8 @@
 Package: seqCBS
 Type: Package
-Title: CN Profiling using Sequencing and CBS
-Version: 1.2
-Date: 2010-05-18
+Title: Copy Number Profiling using Sequencing and CBS
+Version: 1.2.1
+Date: 2019-04-12
 Author: Jeremy J. Shen, Nancy R. Zhang
 Maintainer: Jeremy J. Shen <jeremyjshen@gmail.com>
 Description: This is a method for DNA Copy Number Profiling using
@@ -17,7 +17,6 @@ License: GPL-2
 LazyLoad: yes
 Depends: R (>= 2.10), clue
 Repository: CRAN
-Repository/R-Forge/Project: seqcnv
-Repository/R-Forge/Revision: 10
-Date/Publication: 2012-10-29 08:59:40
-Packaged: 2012-10-29 08:59:40 UTC; ripley
+NeedsCompilation: yes
+Packaged: 2019-04-13 04:52:17 UTC; jshen
+Date/Publication: 2019-04-13 05:22:55 UTC
